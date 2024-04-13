@@ -146,4 +146,4 @@ In this project, our goal is to predict the type of dry beans based on character
 10. Stochastic Gradient Descent
 11. AdaBoost
 12. Ridge Classifier
-13. Deep Learning with 4-layers (128, 64, 32 and 7 neurons) and two activation functions: ReLU and Linear.
+13. Deep Learning with 4-layers (128, 64, 32 and 7 neurons) and two activations functions: ReLU and Linear.
